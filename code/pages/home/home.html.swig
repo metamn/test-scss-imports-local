@@ -4,6 +4,11 @@
 
 <div class="thumbs">
 
+<article class="article article-thumb article--delivering-the-message">
+<time class="article__date">Aug 8, 15</time>
+<h3 class="article__title">
+<a class="link" href="http://localhost:3000/delivering-the-message" title="Delivering The Message">Delivering The Message</a></h3><nav class="article__categories"><h3 class="title">Categories</h3><span class="categories">design</span></nav><aside class="article__excerpt"><h3>Excerpt</h3><div class="text">How to delight visitors yet deliver business goals.</div></aside></article>
+
 <article class="article article-thumb">
   	<time class="article__date">Feb 5, 19</time>
 	<h3 class="article__title">
