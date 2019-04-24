@@ -40,3 +40,13 @@ cs@cs-swift:~/work/test-scss-imports$ ls -alh production/assets/styles/site.min.
 cs@cs-swift:~/work/test-scss-imports-local$ ls -alh production/assets/styles/site.min.css
 -rw-r--r-- 1 cs cs 90K Apr 24 18:33 production/assets/styles/site.min.css
 ```
+
+### Article template + homepage content
+
+- Homepage content and styling added to Article template
+- CSS file size: 148K
+
+```
+cs@cs-swift:~/work/test-scss-imports-local$ ls -alh production/assets/styles/site.min.css
+-rw-r--r-- 1 cs cs 148K Apr 24 18:51 production/assets/styles/site.min.css
+```

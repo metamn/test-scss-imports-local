@@ -1,3 +1,6 @@
+@import "../../project/thumbs/thumbs.scss";
+@import "../../project/fulls/fulls.scss";
+
 html {
   &.delivering-the-message {
     .article {
@@ -6,6 +9,14 @@ html {
           padding: $lem !important;
         }
       }
+    }
+
+    .thumbs {
+      @include thumbs;
+    }
+
+    .fulls {
+      @include fulls;
     }
   }
 }
