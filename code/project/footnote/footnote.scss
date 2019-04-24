@@ -1,3 +1,6 @@
+@import "--mobile/footnote--mobile.scss";
+@import "../footnote/__go-back/footnote__go-back.scss";
+
 @mixin footnote {
   display: flex;
   flex-wrap: wrap;

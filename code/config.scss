@@ -1,3 +1,8 @@
 // Import everything, in the right order
 
-@import "pages/home/home.scss";
+@import "framework/behavior/**/*.scss";
+@import "framework/structure/**/*.scss";
+@import "framework/design/typography/scale/scale.scss";
+@import "framework/design/**/*.scss";
+@import "framework/templates/**/*.scss";
+@import "pages/**/*.scss";

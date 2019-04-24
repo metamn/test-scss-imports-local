@@ -1,3 +1,7 @@
+@import "../../framework/structure/grid/grid.scss";
+@import "../article/article.scss";
+@import "../article-thumb/article-thumb.scss";
+
 @mixin thumbs {
   @include grid(2, $lem, $lem);
 

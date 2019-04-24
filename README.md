@@ -2,7 +2,7 @@
 
 ## Defaults
 
-No global imports.
+No global imports (Only the framework).
 Every file imports the mixins needed.
 
 ## CSS file size

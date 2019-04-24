@@ -1,3 +1,5 @@
+@import "../article-title/--thumb/article-title--thumb.scss";
+
 @mixin article-thumb {
   @include border(normal, all);
 

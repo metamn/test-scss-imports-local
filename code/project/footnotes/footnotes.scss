@@ -1,3 +1,7 @@
+@import "../../framework/design/typography/text-style/text-style.scss";
+@import "--border/footnotes--border.scss";
+@import "../footnote/footnote.scss";
+
 @mixin footnotes {
   flex-basis: 100%;
 

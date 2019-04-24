@@ -1,3 +1,5 @@
+@import "../../framework/design/typography/text-style/text-style.scss";
+
 @mixin article-date {
   @include text-style(figcaption);
 }

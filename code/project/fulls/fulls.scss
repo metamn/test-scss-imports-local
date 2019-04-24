@@ -1,3 +1,7 @@
+@import "../../framework/structure/grid/grid.scss";
+@import "../article/article.scss";
+@import "../article-full/article-full.scss";
+
 @mixin fulls {
   @include grid(1, 0px, $lem);
 
