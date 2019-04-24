@@ -1,0 +1,32 @@
+@import "../article-title/article-title.scss";
+@import "../article-date/article-date.scss";
+@import "../article-categories/article-categories.scss";
+@import "../article-excerpt/article-excerpt.scss";
+@import "../article-content/article-content.scss";
+@import "../article-footnotes/article-footnotes.scss";
+
+@mixin article {
+  .article__title {
+    @include article-title;
+  }
+
+  .article__date {
+    @include article-date;
+  }
+
+  .article__categories {
+    @include article-categories;
+  }
+
+  .article__excerpt {
+    @include article-excerpt;
+  }
+
+  .article__content {
+    @include article-content;
+  }
+
+  .article__footnotes {
+    @include article-footnotes;
+  }
+}

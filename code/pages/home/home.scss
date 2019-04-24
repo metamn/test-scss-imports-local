@@ -1,0 +1,22 @@
+// Home page
+//
+// desc
+//
+// Styleguide home
+
+@import "../../project/thumbs/thumbs.scss";
+@import "../../project/fulls/fulls.scss";
+
+html {
+  &.home {
+    body {
+      .thumbs {
+        @include thumbs;
+      }
+
+      .fulls {
+        @include fulls;
+      }
+    }
+  }
+}
